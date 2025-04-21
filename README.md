@@ -1,6 +1,9 @@
 # InformeLaboratorio
 
 
+NOTA: LA GUIA DE LABORATORIO NO ES EL INFORME DE LABORATORIOO.
+
+
 1. OBJETIVOS
 
 Los objetivos deben responder claramente la pregunta ¿Qué investigar? 
@@ -58,22 +61,16 @@ Adicionalmente para el caso de diagramas eléctricos se debe hacer la explicaci�
 
 En este punto se contestará todo lo planteado en las guías.
 
-5. VIDEO
-
-Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto.
-En el video se debe explicar 4 ejercicios o problemas.
 
 
-6. CONCLUSIONES
+5. CONCLUSIONES
 
 Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
 
 
-7. BIBLIOGRAFÍA
+6. BIBLIOGRAFÍA
 
 Emplear normas APA para el informe e IEEE para el artículo
 
 
-RUBRICA
 
-![](https://github.com/doalulema/InformeLaboratorio/blob/main/Laboratorio.png)
